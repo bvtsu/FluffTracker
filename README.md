@@ -1,4 +1,5 @@
 # FluffTracker
+Fluff: Any combination of Romance, Comedy, and Slice of Life genre entertainment
 
 ## Motivations
 Remembering fluff can be difficult when there's so much out there...
