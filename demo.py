@@ -5,7 +5,7 @@ import requests
 
 url = "https://api.mangadex.org/v2/"
 id_num = "4290"
-user_auth = ("ProjectFluff", "fluff4thesoul")
+user_auth = ("", "")
 req = requests.get(url + "/manga/" + id_num, auth=user_auth)
 
 
