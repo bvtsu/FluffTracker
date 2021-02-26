@@ -16,6 +16,7 @@ Outputs:
 1) stacked bar graphs for chapter completion
 2) stacked bar graphs for review categories of 7+ rating items
 3) Notifications for recently updated approved+highly anticipated items
+4) Filter options by rating, approval status, etc
 
 ## Dependencies
 streamlit
